@@ -1,2 +1,3 @@
 # SCHOLL
-2026 Game which it still make by a solodev
+2026 Game create by Yen
+2026/2 game is On hold.
